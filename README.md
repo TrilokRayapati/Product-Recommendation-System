@@ -78,10 +78,6 @@ IEEE-based final year project papers and online resources
 Thanks for checking out my project!
 Feel free to connect with me on LinkedIn or view more at GitHub.
 
-1. Create a GitHub repo named `Product-Recommendation-System`.
-2. Upload your project code and `README.md` file (above).
-3. Add your GitHub link in your resume under **Projects**, like this:
-
 > **Product Recommendation System Using Meta-Path Discovery**  
 > Built a user-personality-based recommendation engine using Python, SVM, and HIN logic. Solved cold-start issues and improved accuracy.  
 > GitHub: [github.com/rayapatitrilok/Product-Recommendation-System](https://github.com/rayapatitrilok/Product-Recommendation-System)
